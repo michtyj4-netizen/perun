@@ -1,3 +1,4 @@
+yes
 (set-env!
  :source-paths #{"test"}
  :resource-paths #{"src"}
